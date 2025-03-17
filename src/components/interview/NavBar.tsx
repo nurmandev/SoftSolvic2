@@ -36,9 +36,7 @@ const NavBar = ({ onSettingsClick = () => {} }: NavBarProps) => {
             <Menu className="h-5 w-5" />
           </Button>
           <Link to="/">
-            <h1 className="text-xl font-bold cursor-pointer">
-              AI Interview Coach
-            </h1>
+            <h1 className="text-xl font-bold cursor-pointer">SolfSolvic</h1>
           </Link>
         </div>
 
